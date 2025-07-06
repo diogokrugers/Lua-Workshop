@@ -22,7 +22,7 @@ curl -L -R -O https://www.lua.org/ftp/lua-5.4.8.tar.gz <br>
 tar zxf lua-5.4.8.tar.gz <br>
 cd lua-5.4.8 <br> 
 sudo make all install <br>
-- Opcional
+- Opcional <br>
 cd .. <br>
 rm -rf lua-5.4.8 lua-5.4.8.tar.gz <br>
 
