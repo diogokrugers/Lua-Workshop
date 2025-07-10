@@ -40,8 +40,8 @@ Arquivos necessários para o minicurso de Lua que ministrarei para a SACOMP 2025
 
 
 ## Créditos
-Este projeto contém o código-fonte e os binários compilados do interpretador [Lua](https://www.lua.org/), distribuído sob a licença MIT. <br>
-Lua é um projeto da PUC-Rio. Veja mais em [www.lua.org](https://www.lua.org). <br> 
+Este projeto contém os binários compilados do interpretador [Lua](https://www.lua.org/), distribuído sob a licença MIT. <br>
+Veja mais sobre Lua em [www.lua.org](https://www.lua.org). <br> 
 <br>
 A licença original pode ser encontrada [aqui](https://www.lua.org/license.html). <br>
 
