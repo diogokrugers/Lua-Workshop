@@ -17,15 +17,16 @@ Arquivos necessários para o minicurso de Lua que ministrarei para a SACOMP 2025
 11. Abra o Prompt de Comando e execute o comando 'lua', se aparecer a sua versão de Lua e um '>' na linha seguinte, Lua está devidamente instalada. <br>
 
 ## Instalação (build) de Lua no Linux/Unix
-- Pode pular as instruções e executar apenas esse comando no terminal:<br>curl -sSL https://raw.githubusercontent.com/diogokrugers/Lua-Workshop/main/install.sh | bash <br>
+- Pode pular as instruções e executar apenas esse comando no terminal: <br>
+`curl -sSL https://raw.githubusercontent.com/diogokrugers/Lua-Workshop/main/install.sh | bash` <br>
 1. Abra o seu terminal e execute os seguintes comandos: <br>
-curl -L -R -O https://www.lua.org/ftp/lua-5.4.8.tar.gz <br>
-tar zxf lua-5.4.8.tar.gz <br>
-cd lua-5.4.8 <br> 
-sudo make all install <br>
+`curl -L -R -O https://www.lua.org/ftp/lua-5.4.8.tar.gz` <br>
+`tar zxf lua-5.4.8.tar.gz` <br>
+`cd lua-5.4.8` <br> 
+`sudo make all install` <br>
 - Opcional <br>
-cd .. <br>
-rm -rf lua-5.4.8 lua-5.4.8.tar.gz <br>
+`cd ..` <br>
+`rm -rf lua-5.4.8 lua-5.4.8.tar.gz` <br>
 
 ## Instalação de Lua no Windows (Build pronta, binários incluídos)
 - Essa é a versão mais simples, já que não requer o processo de compilação e build. Porém, a versão de Lua instalada será a 5.4.2. <br>
