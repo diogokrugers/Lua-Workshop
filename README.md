@@ -2,7 +2,7 @@
 Arquivos necessários para o minicurso de Lua que ministrarei para a SACOMP 2025, na UFPel.
 
 ## Instalação (build) de Lua no Windows
-- Essas instruções assumem que você já tenha o compilador GCC via [MinGW](https://sourceforge.net/projects/mingw) instalado e funcionando no seu computador (preferencialmente o de 64 bits, por ser a mesma arquitetura que instalaremos de Lua). Clique [aqui](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh) para instalar o MinGW-64. <br>
+- Essas instruções assumem que você já tenha o compilador GCC via [MinGW]([https://sourceforge.net/projects/mingw](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh)) instalado e funcionando no seu computador (preferencialmente o de 64 bits, por ser a mesma arquitetura que instalaremos de Lua). Clique [aqui](https://www.youtube.com/watch?v=aducc6-ra90) para um tutorial de como instalar o MinGW-64. <br>
 - Para uma instalação mais simples e que não necessita do MinGW, siga a seção mais abaixo que irá lhe guiar em como instalar Lua sem necessitar de passar pelo processo de compilá-la e fazer a build. <br>
 1. Baixe [o código-fonte (lua-5.4.8)](https://lua.org/ftp/lua-5.4.8.tar.gz). A pasta contendo o código-fonte estará dentro de um arquivo tar.gz, descompacte ele.<br>
 2. Baixe o [script build.cmd](build.cmd) para buildar Lua. <br>
