@@ -1,5 +1,5 @@
 # Lua-Workshop
-Arquivos necessários para o minicurso de Lua que ministrarei para a SACOMP 2025, na UFPel.
+Arquivos e instruções necessárias para o minicurso de Lua que ministrei para a SACOMP 2025, na UFPel.
 
 ## Instalação (build) de Lua no Windows
 - Essas instruções assumem que você já tenha o compilador GCC via [MinGW]([https://sourceforge.net/projects/mingw](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh)) instalado e funcionando no seu computador (preferencialmente o de 64 bits, por ser a mesma arquitetura que instalaremos de Lua). Clique [aqui](https://www.youtube.com/watch?v=aducc6-ra90) para um tutorial de como instalar o MinGW-64. <br>
